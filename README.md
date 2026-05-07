@@ -3,7 +3,7 @@
   <h1>Скрипт php: Калькулятор-заказа с отправкой счёта на оплату</h1>
 
   ![Stars](https://img.shields.io/github/stars/AlexandrAnatoliev/freelance1.svg?style=flat)
-  ![Version 1.0.2](https://img.shields.io/badge/Version-1.0.2-orange.svg)
+  ![Version 1.0.3](https://img.shields.io/badge/Version-1.0.3-orange.svg)
   ![Forks](https://img.shields.io/github/forks/AlexandrAnatoliev/freelance1.svg?style=flat)
   ![GitHub repo size](https://img.shields.io/github/repo-size/AlexandrAnatoliev/freelance1)
   
@@ -560,7 +560,7 @@ mkdir releases
 * Создание архива проекта
 
 ```
- zip -r releases/v_1_0_1.zip .htaccess captcha.php checkout.php composer.json composer.lock configs/ generatePDF.php img/ calc.php invoice.php mailer.php README.md styles/ utils/ vendor/
+ zip -r releases/v_1_0_3.zip .htaccess captcha.php checkout.php composer.json composer.lock configs/ generatePDF.php img/ calc.php invoice.php mailer.php README.md styles/ utils/ vendor/
 ```
 
 * Копирование архива на хостинг

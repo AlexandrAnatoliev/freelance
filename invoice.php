@@ -268,7 +268,7 @@ function getEmailMessage(
   <div class="empty-line"></div>
 
   <div class="invoice-header">
-    Счет на оплату № ' . $orderNumber . ' от ' . getCurrentRussianDate() . '
+    Счет на оплату № Б-' . $orderNumber . ' от ' . getCurrentRussianDate() . '
   </div>
 
   <div class="empty-line"></div>
@@ -632,7 +632,7 @@ function getMiddleTableHTML(
   <div class="empty-line"></div>
 
   <div class="invoice-header">
-    Счет на оплату № ' . $orderNumber . ' от ' . getCurrentRussianDate() . '
+    Счет на оплату № Б-' . $orderNumber . ' от ' . getCurrentRussianDate() . '
   </div>
 
   <div class="empty-line"></div>
